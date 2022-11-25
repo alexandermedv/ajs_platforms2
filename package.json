@@ -1,0 +1,23 @@
+{
+  "name": "ajs_platforms2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandermedv/ajs_platforms2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandermedv/ajs_platforms2/issues"
+  },
+  "homepage": "https://github.com/alexandermedv/ajs_platforms2#readme",
+  "dependencies": {
+    "@alexandermedv/ajs_platforms1": "^1.0.0"
+  }
+}
